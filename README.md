@@ -26,7 +26,7 @@
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&theme=radical)](https://github.com/algorminseo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&show_icons=true&theme=radical)](https://github.com/algorminseo/github-readme-stats)
 
 </br>
 <h2>Baekjoon level</h2>
