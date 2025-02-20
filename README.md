@@ -1,6 +1,6 @@
 <h1> Hi! I am Minseo Kim. </h1>
 
-<p> University student who hope to become AI Researcher, or Full Stack developer.</p>
+<p> University student who hope to become AI Researcher</p>
 <dl>
  <dt>🔭 I’m currently Computer Science student.</dt>
   <dt>🌱 I’m currently learning React.js. (learning step react.js -> node.js -> next.js) </dt>
