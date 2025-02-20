@@ -29,9 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&theme=radical)](https://github.com/algorminseo/github-readme-stats)
 
 </br>
-<h2>Baekjoon level</h2>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msdaniel0702)](https://solved.ac/msdaniel0702/) 
 
 
 
