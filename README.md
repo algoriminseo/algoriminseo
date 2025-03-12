@@ -23,7 +23,7 @@
 
 <h2> Github & LeetCode status </h2>
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical)
-![LeetCode Badge](https://leetcard.jacoblin.cool/minseo_kim)](https://leetcode.com/minseo_kim/)
+
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&theme=radical)](https://github.com/algorminseo/github-readme-stats)
