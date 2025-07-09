@@ -26,7 +26,7 @@
 
 
 ## 📊 My GitHub Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&langs_count=6&theme=tokyonight)
 
 </br>
 
