@@ -19,13 +19,17 @@
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
-## 📊 GitHub Stats & Languages
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical" />
 </p>
-</br>
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
 
 
 
