@@ -22,11 +22,11 @@
 </br>
 
 <h2> Github status </h2>
-<h2>
+
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact)
-</h2>
+
 </br>
 
 
