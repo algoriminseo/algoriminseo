@@ -10,7 +10,7 @@
   <dt>⚡Fun fact: I am a big fan of 🔵⚽️Chelsea. </dt>
 </dl>
 
-<h2> Languages that I learned </h2>
+## 💻 Languages that I learned 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -21,13 +21,12 @@
 
 </br>
 
-<h2> Github status </h2>
-
+## ⌨️ Github status 
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical)
 
 
 ## 📊 My GitHub Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mskim123&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight)
 
 </br>
 
