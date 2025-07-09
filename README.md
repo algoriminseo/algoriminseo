@@ -19,14 +19,18 @@
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
-</br>
+<h2>📈 My GitHub Overview</h2>
 
-## ⌨️ Github status 
-![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical)
-
-
-## 📊 My GitHub Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&langs_count=6&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 </br>
 
