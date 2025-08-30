@@ -22,7 +22,7 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=tokyonight"/>
 </p>
 
 ## 🧠 Most Used Languages
