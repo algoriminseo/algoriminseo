@@ -3,7 +3,7 @@
 <p> University student who hope to become AI Researcher</p>
 <dl>
  <dt>🔭 I’m currently Computer Science student.</dt>
-  <dt>🌱 I’m currently managing database services.
+  <dt>🌱 I’m currently managing backend services.
   <dt>🤔 I love watching EPL.</dt>
   <dt>📫 How to contact me: </dt>
      <dd><a href = "mailto:minseohappy07@gmail.com">Email: minseohappy07@gmail.com</a></dd>
