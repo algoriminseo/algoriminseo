@@ -22,13 +22,13 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ## Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 
