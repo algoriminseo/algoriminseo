@@ -23,8 +23,8 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true" />
 </p>
-## Most Used Languages
 
+## Most Used Languages
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact" />
 </p>
