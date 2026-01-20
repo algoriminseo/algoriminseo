@@ -20,16 +20,14 @@
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
 ## 📈 GitHub Stats
-
 <p>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=algoriminseo&show_icons=true/>
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=algoriminseo&show_icons=true" />
 </p>
 
 ## Most Used Languages
 
 <p>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=algoriminseo&layout=compact/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=algoriminseo&layout=compact&show_icons=true" />
 </p>
 
 
