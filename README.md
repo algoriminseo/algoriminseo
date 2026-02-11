@@ -2,12 +2,13 @@
 
 <p> University student who hope to become AI Researcher</p>
 <dl>
- <dt>🔭 I’m currently Computer Science student.</dt>
-  <dt>🌱 I’m currently managing backend services.
-  <dt>🤔 I love watching EPL.</dt>
-  <dt>📫 How to contact me: </dt>
+ <dt> I’m currently Computer Science student.</dt>
+  <dt> I’m currently managing backend services.
+  <dt> I love watching EPL.</dt>
+  <dt> How to contact me: </dt>
      <dd><a href = "mailto:minseohappy07@gmail.com">Email: minseohappy07@gmail.com</a></dd>
-  <dt>⚡Fun fact: I am a big fan of 🔵⚽️Chelsea. </dt>
+     <dd><a href = "https://www.linkedin.com/in/minseo-kim-22a3942a3/">linkedin : https://www.linkedin.com/in/minseo-kim-22a3942a3/ </a></dd>
+     <dd><a href = "https://algoriminseo.github.io/">Portfolio : https://algoriminseo.github.io/</a></dd>
 </dl>
 
 ## 💻 Languages that I learned 
