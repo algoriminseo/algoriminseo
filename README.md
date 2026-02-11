@@ -8,6 +8,7 @@
   <dt> How to contact me: </dt>
      <dd><a href = "mailto:minseohappy07@gmail.com">Email: minseohappy07@gmail.com</a></dd>
      <dd><a href = "https://www.linkedin.com/in/minseo-kim-22a3942a3/">linkedin : https://www.linkedin.com/in/minseo-kim-22a3942a3/ </a></dd>
+   <dt> My Portfolio Site: </dt>
      <dd><a href = "https://algoriminseo.github.io/">Portfolio : https://algoriminseo.github.io/</a></dd>
 </dl>
 
