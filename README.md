@@ -6,10 +6,10 @@
   <dt> I’m currently managing backend services.
   <dt> I love watching EPL.</dt>
   <dt> How to contact me: </dt>
-     <dd><a href = "mailto:minseohappy07@gmail.com">Email: minseohappy07@gmail.com</a></dd>
-     <dd><a href = "https://www.linkedin.com/in/minseo-kim-22a3942a3/">linkedin : https://www.linkedin.com/in/minseo-kim-22a3942a3/ </a></dd>
+     <dd>Email:<a href = "mailto:minseohappy07@gmail.com">minseohappy07@gmail.com</a></dd>
+     <dd>linkedin :<a href = "https://www.linkedin.com/in/minseo-kim-22a3942a3/">https://www.linkedin.com/in/minseo-kim-22a3942a3/</a></dd>
    <dt> My Portfolio Site: </dt>
-     <dd><a href = "https://algoriminseo.github.io/">Portfolio : https://algoriminseo.github.io/</a></dd>
+     <dd>Portfolio : <a href = "https://algoriminseo.github.io/">https://algoriminseo.github.io/</a></dd>
 </dl>
 
 ## 💻 Languages that I learned 
@@ -23,12 +23,7 @@
 
 ## 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true" />
-</p>
-
-## Most Used Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoriminseo&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=algoriminseo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
 </p>
 
 
